@@ -13,7 +13,7 @@ public class Main {
         names.add("Mehmet");
         names.add("Zeynep");
 
-        // Method reference kullanarak liste elemanlarını yazdırma
+        // Method reference kullanarak liste yazdırma
         names.forEach(System.out::println);
     }
 }
