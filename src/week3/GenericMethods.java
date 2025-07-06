@@ -2,7 +2,7 @@ package week3;
 
 public class GenericMethods {
 
-    // Generic metot tanımı
+
     public static <T> void printArray(T[] array) {
         for (T element : array) {
             System.out.print(element + " ");
