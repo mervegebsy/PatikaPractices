@@ -1,6 +1,5 @@
 package week5;
 
-import java.util.Scanner;
 
 public enum Day {
     SUNDAY("Kapalı"),
