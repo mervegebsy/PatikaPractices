@@ -1,5 +1,7 @@
 package week5;
 
+import java.util.Scanner;
+
 public enum Day {
     SUNDAY("Kapalı"),
     MONDAY("09:00 - 17:00"),
@@ -19,4 +21,7 @@ public enum Day {
         return calismaSaati;
     }
 }
+
+
+
 
